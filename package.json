@@ -1,0 +1,18 @@
+{
+  "name": "milieu-graphics-processor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@sanity/client": "^1.150.1",
+    "@sanity/image-url": "^0.140.19",
+    "axios": "^0.20.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "get-pixels": "^3.3.2",
+    "lodash": "^4.17.20",
+    "pm2": "^4.4.1",
+    "spritesheet-js": "^1.2.6"
+  }
+}
